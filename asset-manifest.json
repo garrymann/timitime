@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/timitime/static/css/main.a7f87629.css",
+    "main.js": "/timitime/static/js/main.1eaa7200.js",
+    "static/media/mobility-card.jpg": "/timitime/static/media/mobility-card.9e4f953da7384ab503d6.jpg",
+    "static/media/Main-Background.jpg": "/timitime/static/media/Main-Background.385442e53c5b44537506.jpg",
+    "static/media/running-card.jpg": "/timitime/static/media/running-card.ce30a048b6f9a963501d.jpg",
+    "static/media/about.jpg": "/timitime/static/media/about.b922446c7f712e40ffb9.jpg",
+    "static/media/sign-post.png": "/timitime/static/media/sign-post.b012f8fc1280e4c7bdcb.png",
+    "index.html": "/timitime/index.html",
+    "main.a7f87629.css.map": "/timitime/static/css/main.a7f87629.css.map",
+    "main.1eaa7200.js.map": "/timitime/static/js/main.1eaa7200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f87629.css",
+    "static/js/main.1eaa7200.js"
+  ]
+}
