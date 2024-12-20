@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99707df7.css",
+    "main.js": "/static/js/main.cb611ed9.js",
+    "static/media/mobility-card.jpg": "/static/media/mobility-card.9e4f953da7384ab503d6.jpg",
+    "static/media/Main-Background.jpg": "/static/media/Main-Background.385442e53c5b44537506.jpg",
+    "static/media/running-card.jpg": "/static/media/running-card.ce30a048b6f9a963501d.jpg",
+    "static/media/about.jpg": "/static/media/about.b922446c7f712e40ffb9.jpg",
+    "static/media/sign-post.png": "/static/media/sign-post.b012f8fc1280e4c7bdcb.png",
+    "index.html": "/index.html",
+    "main.99707df7.css.map": "/static/css/main.99707df7.css.map",
+    "main.cb611ed9.js.map": "/static/js/main.cb611ed9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99707df7.css",
+    "static/js/main.cb611ed9.js"
+  ]
+}
