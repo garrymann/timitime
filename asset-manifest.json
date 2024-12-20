@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a21ac1d.css",
-    "main.js": "/static/js/main.bddc6f00.js",
-    "static/media/mobility-card.jpg": "/static/media/mobility-card.9e4f953da7384ab503d6.jpg",
-    "static/media/Main-Background.jpg": "/static/media/Main-Background.385442e53c5b44537506.jpg",
-    "static/media/running-card.jpg": "/static/media/running-card.ce30a048b6f9a963501d.jpg",
-    "static/media/about.jpg": "/static/media/about.b922446c7f712e40ffb9.jpg",
-    "static/media/sign-post.png": "/static/media/sign-post.b012f8fc1280e4c7bdcb.png",
-    "static/media/logo512.png": "/static/media/logo512.d90952ffb035ceb04276.png",
-    "index.html": "/index.html",
-    "main.0a21ac1d.css.map": "/static/css/main.0a21ac1d.css.map",
-    "main.bddc6f00.js.map": "/static/js/main.bddc6f00.js.map"
+    "main.css": "/timitime/static/css/main.0edb67f9.css",
+    "main.js": "/timitime/static/js/main.bf5ec5d9.js",
+    "static/media/mobility-card.jpg": "/timitime/static/media/mobility-card.9e4f953da7384ab503d6.jpg",
+    "static/media/Main-Background.jpg": "/timitime/static/media/Main-Background.385442e53c5b44537506.jpg",
+    "static/media/running-card.jpg": "/timitime/static/media/running-card.ce30a048b6f9a963501d.jpg",
+    "static/media/about.jpg": "/timitime/static/media/about.b922446c7f712e40ffb9.jpg",
+    "static/media/sign-post.png": "/timitime/static/media/sign-post.b012f8fc1280e4c7bdcb.png",
+    "static/media/logo512.png": "/timitime/static/media/logo512.d90952ffb035ceb04276.png",
+    "index.html": "/timitime/index.html",
+    "main.0edb67f9.css.map": "/timitime/static/css/main.0edb67f9.css.map",
+    "main.bf5ec5d9.js.map": "/timitime/static/js/main.bf5ec5d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a21ac1d.css",
-    "static/js/main.bddc6f00.js"
+    "static/css/main.0edb67f9.css",
+    "static/js/main.bf5ec5d9.js"
   ]
 }
