@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/timitime/static/css/main.cd787568.css",
-    "main.js": "/timitime/static/js/main.cb9e6a62.js",
+    "main.js": "/timitime/static/js/main.7a28a9aa.js",
     "static/media/mobility-card.jpg": "/timitime/static/media/mobility-card.9e4f953da7384ab503d6.jpg",
     "static/media/Main-Background.jpg": "/timitime/static/media/Main-Background.385442e53c5b44537506.jpg",
     "static/media/running-card.jpg": "/timitime/static/media/running-card.ce30a048b6f9a963501d.jpg",
@@ -10,10 +10,10 @@
     "static/media/logo512.png": "/timitime/static/media/logo512.d90952ffb035ceb04276.png",
     "index.html": "/timitime/index.html",
     "main.cd787568.css.map": "/timitime/static/css/main.cd787568.css.map",
-    "main.cb9e6a62.js.map": "/timitime/static/js/main.cb9e6a62.js.map"
+    "main.7a28a9aa.js.map": "/timitime/static/js/main.7a28a9aa.js.map"
   },
   "entrypoints": [
     "static/css/main.cd787568.css",
-    "static/js/main.cb9e6a62.js"
+    "static/js/main.7a28a9aa.js"
   ]
 }
