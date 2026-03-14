@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://garrymann.github.io/coaching-portfolio/sitemap.xml
+Sitemap: https://garrymann.github.io/timitime/sitemap.xml
 
 # Allow all major search engines
 User-agent: Googlebot
